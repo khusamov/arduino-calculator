@@ -6,8 +6,11 @@
 Исходный код  
 https://github.com/FlyingDaniil/calculator-keypad-lcd-i2c
 
-Библиотека для пленочной клавиатуры (Keypad_I2C - PCF8574, PCF8574A and PCF8575)  
+Библиотека для пленочной клавиатуры (взята именно Keypad_I2C для PCF8574, ставится отдельно):  
 https://github.com/joeyoung/arduino_keypads
+
+Библиотека для дисплея по I2C (ищется по фразе LiquidCrystal_I2C в менеджере библиотек Arduino IDE):  
+https://github.com/johnrickman/LiquidCrystal_I2C
 
 
 # Компоненты

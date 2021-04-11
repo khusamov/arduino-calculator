@@ -14,7 +14,7 @@ https://github.com/joeyoung/arduino_keypads
 
 В качестве платы для датчиков используется YFRobot Sensor Shield:
 
-![image](https://user-images.githubusercontent.com/4146998/114298374-c08f1b80-9abe-11eb-81ff-a05ada86b761.png | width=100)
+![image](https://user-images.githubusercontent.com/4146998/114298374-c08f1b80-9abe-11eb-81ff-a05ada86b761.png)
 
 Она к сожалению малоизвестная и не ясно где ее описание.
 

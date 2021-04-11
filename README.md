@@ -1,6 +1,9 @@
 # arduino-calculator
 Калькулятор на Ардуино (Keypad_I2C, LiquidCrystal_I2C)
 
+![image](https://user-images.githubusercontent.com/4146998/114302446-b4f92000-9ad1-11eb-876e-ccde88d04d11.png)
+
+
 # Зависимости
 
 Исходный код  

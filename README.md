@@ -51,6 +51,8 @@ https://github.com/johnrickman/LiquidCrystal_I2C
 
 На расширителе есть переключатели. Их надо переключить в нули, чтобы адрес был 0x20 (как в скетче).
 
+Сам модуль расширителя I2C подключается к YFRobot Sensor Shield на пины A4 (SDA), A5 (SCL) и к пинам питания 5V и земли.
+
 В качестве микроконтроллера выбран WavGat Uno R3:
 
 ![image](https://user-images.githubusercontent.com/4146998/114298957-883d0c80-9ac1-11eb-8d3e-e1988ea7a345.png)

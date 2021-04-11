@@ -30,7 +30,7 @@ https://github.com/joeyoung/arduino_keypads
 
 Вот картинка другого подобного шилда:
 
-![image](https://user-images.githubusercontent.com/4146998/114298430-0b109800-9abf-11eb-8a96-bddfe1072094.png)
+![image](https://user-images.githubusercontent.com/4146998/114300686-38af0e80-9aca-11eb-86d8-e6633b5a1a7c.png)
 
 Для дисплея используется модуль LCD 1602 с модулем расширителем портов для I2C:
 
